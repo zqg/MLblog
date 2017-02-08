@@ -31,6 +31,9 @@ social:
 #  twitter_username: agusmakmun6
 #  fb_appid: 1749788565247320
 
+url: "https://zqg.github.io/MLblog/"
+baseurl: "https://zqg.github.io/MLblog/"
+
 urls:
     - text: About Me
       url: /about/
@@ -39,8 +42,6 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://zqg.github.io/MLblog/"
-baseurl: "https://zqg.github.io/MLblog/"
 paginate: 20
 per_page: 20
 paginate_path: "/page:num/"
