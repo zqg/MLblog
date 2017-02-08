@@ -41,7 +41,6 @@ urls:
 
 url: "https://zqg.github.io/MLblog/"
 baseurl: "https://zqg.github.io/MLblog/"
-source 'https://rubygems.org'
 paginate: 20
 per_page: 20
 paginate_path: "/page:num/"
